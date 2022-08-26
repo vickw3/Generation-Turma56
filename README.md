@@ -1,5 +1,5 @@
-<h1>Generation Brasil</h1>
-<h3>Turma 56</h3>
+# Generation Brasil
+### (Turma 56)
 
 <h2>Conteúdo</h2>
 Sobre • Linguagens e Ferramentas • Bloco I • Bloco II • Bloco III • JVSangue • Blog Pessoal • FalaMemo • Contato
