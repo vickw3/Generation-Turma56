@@ -23,6 +23,7 @@ Language: HTML Language: CSS Language: JavaScript
 
 ## 🚀BlocoI
 **📌Sobre**
+
 Primeiro bloco do programa com foco no desenvolvimento da lógica da programação com exercícios primeiramente feitos no Portugol e depois no Java. O projeto integrador deste bloco é o JVSangue.
 
 **⚙️ Ferramentas utilizadas**
@@ -40,6 +41,7 @@ Primeiro bloco do programa com foco no desenvolvimento da lógica da programaç�
 
 ## 📝JVSangue
 **📌Sobre**
+
 O JVSangue é nosso projeto de conclusão do Bloco I do bootcamp de Pessoa Desenvolvedora Web da Generation Brasil. Nosso desafio era criar um programa em Java que interagisse com o usuário pelo console e colocasse em prática todo conhecimento que adquirimos durante esse primeiro módulo do bootcamp.
 
 Nosso programa serve para verificar se o usuário está apte a doar sangue ou não por meio de um questionário personalizado de acordo com suas respostas. Também é possível criar um cadastro e fazer login para acessar estatísticas sobre doação de sangue no Brasil e sobre o tipo sanguíneo do usuário, além de poder ver quais os locais de doação mais próximos da pessoa.
@@ -69,6 +71,7 @@ Nosso programa serve para verificar se o usuário está apte a doar sangue ou n�
 
 ## 📝Blog Pessoal
 **📌Sobre**
+
 Blog Pessoal é um projeto desenvolvido durante os Blocos I e II. No Bloco I foi desenvolvida a parte de Back end do projeto e no Bloco II foi desenvolvida a parte de Front end do projeto.
 
 **⚙️ Funcionalidades**
@@ -83,6 +86,7 @@ Desenvolvido por Victoria Alcoforado 🎮
 **⚙️ Funcionalidades**
 **⚙️ Ferramentas utilizadas**
 **🔗 Links**
+
 **🧑‍💻 Membros da equipe**
 - [Amanda Falcão](https://www.github.com/amdfd)
 - [Fernando Pajtak](https://www.github.com/pajtak)
