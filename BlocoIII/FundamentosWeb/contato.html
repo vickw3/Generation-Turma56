@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <ul id="menu">
+        <li>
+            <a href="index.html"> Home</a>
+        </li>
+        <li>
+            <a href="contato.html"> Contato</a>
+        </li>
+    </ul>
+
+    <h1 class="center">Entre em contato comigo</h1>
+
+    <div class="container mb-50">
+<div>
+    <form>
+        <label for="nome">Nome:</label><br>
+        <input type="text" id="nome" onkeyup="validaNome()">
+        <div id="txtNome"></div>
+        <br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" onkeyup="validaEmail()">
+        <div id="txtEmail"></div>
+        <br>
+        <label for="assunto">Assunto:</label><br>
+        <textarea name="assunto" id="assunto" cols="60" rows="5" onkeyup="validaAssunto()"></textarea>
+        <div id="txtAssunto"></div>
+        <br>
+        <button onclick="enviar()">Enviar</button>
+    </form>
+</div>
+
+<div class="ml-50">
+    <p>Av. Paulista,1000</p>
+    <p>São Paulo - SP</p>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7314.411824445816!2d-46.66049197609461!3d-23.56104700428404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c7ec8f978b%3A0x5c159a472017339f!2zSXRhw7ogUGVyc29ubmFsaXTDqQ!5e0!3m2!1spt-BR!2sbr!4v1661235335222!5m2!1spt-BR!2sbr" width="350" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" onmousemove="mapaZoom()" onmouseout="mapaNormal()" id="mapa"></iframe>
+</div>
+    </div>
+    <hr>
+    <footer>
+        <div class="container">
+            <a href="https://www.linkedin.com/in/victoriaalcoforado/" target="_blank">
+            <img class="tm-social p-30" src="assets/img/linkedin.png" alt="Logo do LinkedIn">
+            </a>
+            <a href="https://github.com/vickw3" target="_blank">
+            <img class="tm-social p-30" src="assets/img/github.png" alt="Logo do GitHub">
+            </a>
+            <a href="victoria.alcoforado@gmail.com" target="_blank">
+            <img class="tm-social p-30" src="assets/img/email.png" alt="Logo do Email">            
+            </a>
+
+        </div>
+       <p class="center">
+        Criado por Victoria Alcoforado &copy;
+       </p>
+    </footer>
+
+    <script src="assets/js/script.js">
+
+    </script>
+
+</body>
+</html>
