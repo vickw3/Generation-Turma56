@@ -1,5 +1,6 @@
 # Generation Brasil
 **(Turma 56)**
+
 🚧 Em construção 🚧
 
 ## Conteúdo
@@ -14,13 +15,17 @@ O projeto final realizado no Bloco II e Bloco III é feito em grupo e pode ser e
 
 ## ⚙️Linguagens e Ferramentas Utilizadas
 **Linguagem BlocoI**
-Language:Portugol Language: Java
+- Portugol;
+- Java.
 
 **Linguagem BlocoII**
-Language: Spring Boot Language: MySQL
+- Spring Boot;
+- MySQL.
 
 **Linguagem BlocoIII**
-Language: HTML Language: CSS Language: JavaScript
+- HTML;
+- CSS;
+- JavaScript.
 
 ## 🚀BlocoI
 **📌Sobre**
@@ -76,9 +81,10 @@ Blog Pessoal é um projeto desenvolvido durante os Blocos I e II. No Bloco I foi
 
 **⚙️ Funcionalidades**
 **⚙️ Ferramentas utilizadas**
+
 **🔗 Links**
-- [Heroku] (https://bpvictoria.herokuapp.com/)
-- [Netlify] (https://blogpessoalvictoria.netlify.app/)
+- [Heroku](https://bpvictoria.herokuapp.com/)
+- [Netlify](https://blogpessoalvictoria.netlify.app/)
 
 Desenvolvido por Victoria Alcoforado 🎮
 
@@ -86,12 +92,14 @@ Desenvolvido por Victoria Alcoforado 🎮
 **📌Sobre**
 
 **⚙️ Funcionalidades**
+
 **⚙️ Ferramentas utilizadas**
+
 **🔗 Links**
-- [Heroku] (https://falamemo.herokuapp.com/swagger-ui/index.html)
-- [Netlify] (https://falamemo.netlify.app/)
+- [Heroku](https://falamemo.herokuapp.com/swagger-ui/index.html)
+- [Netlify](https://falamemo.netlify.app/)
 - Slides de apresentação
-- [Protótipo no Figma] (https://www.figma.com/file/xEtvkFiBlpJq3au1VOipBI/FalaMemo?node-id=0%3A1)
+- [Protótipo no Figma](https://www.figma.com/file/xEtvkFiBlpJq3au1VOipBI/FalaMemo?node-id=0%3A1)
 
 **🧑‍💻 Membros da equipe**
 - [Amanda Falcão](https://www.github.com/amdfd)
