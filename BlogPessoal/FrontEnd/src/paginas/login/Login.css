@@ -1,0 +1,21 @@
+.textosLogin {
+    color: #d56510 !important;
+    font-weight: bold !important;
+}
+
+.botao {
+    background-color: #d56510 !important;
+}
+
+.imagem {
+    width: 100vh;
+    min-height: 100vh;
+    background-image: url(https://as2.ftcdn.net/v2/jpg/01/36/70/67/1000_F_136706734_KWhNBhLvY5XTlZVocpxFQK1FfKNOYbMj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decorator-none {
+    text-decoration: none !important;
+}
