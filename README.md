@@ -1,5 +1,6 @@
 # Generation Brasil
 **(Turma 56)**
+🚧 Em construção 🚧
 
 ## Conteúdo
 [Sobre] • [Linguagens e Ferramentas] • [Bloco I] • [Bloco II] • [Bloco III] • [JVSangue] • [Blog Pessoal] • [FalaMemo] • [Contato]
@@ -58,8 +59,7 @@ Nosso programa serve para verificar se o usuário está apte a doar sangue ou n�
 - Miro.
 
 **🔗 Links**
-- [Slides da apresentação](https://www.canva.com/design/DAFGnSKfwlo/wx6mS03qjPOBmg8SOdc_Bg/view?utm_content=DAFGnSKfwlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Design](https://www.figma.com/file/qCDz8YK7gu7owAeQEVb9rd/JVSangue?node-id=0%3A1)
+- [Protótipo no Figma](https://www.figma.com/file/C1UcmTH0tLW7xK3qKA3JmN/JVSangue)
 - [Fluxograma](https://miro.com/app/board/uXjVOmDgYa0=/?share_link_id=264140798844)
 
 **🧑‍💻 Membros da equipe**
@@ -77,6 +77,8 @@ Blog Pessoal é um projeto desenvolvido durante os Blocos I e II. No Bloco I foi
 **⚙️ Funcionalidades**
 **⚙️ Ferramentas utilizadas**
 **🔗 Links**
+- [Heroku] (https://bpvictoria.herokuapp.com/)
+- [Netlify] (https://blogpessoalvictoria.netlify.app/)
 
 Desenvolvido por Victoria Alcoforado 🎮
 
@@ -86,6 +88,10 @@ Desenvolvido por Victoria Alcoforado 🎮
 **⚙️ Funcionalidades**
 **⚙️ Ferramentas utilizadas**
 **🔗 Links**
+- [Heroku] (https://falamemo.herokuapp.com/swagger-ui/index.html)
+- [Netlify] (https://falamemo.netlify.app/)
+- Slides de apresentação
+- [Protótipo no Figma] (https://www.figma.com/file/xEtvkFiBlpJq3au1VOipBI/FalaMemo?node-id=0%3A1)
 
 **🧑‍💻 Membros da equipe**
 - [Amanda Falcão](https://www.github.com/amdfd)
